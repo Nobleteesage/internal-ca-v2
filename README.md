@@ -7,7 +7,7 @@ This project simulates the setup of an **internal Certificate Authority (CA)** u
 ## 📌 Features
 
 - ✅ Self-signed CA setup with a secure private key
-- ✅ Signed HTTPS certificates for internal domains (e.g., `devportal.altschool.local`)
+- ✅ Signed HTTPS certificates for internal domains 
 - ✅ Certificate Signing Requests (CSR) and validation
 - ✅ End-to-end certificate chain verification
 - ✅ All steps and outputs logged in `report.txt`
@@ -29,7 +29,7 @@ This project simulates the setup of an **internal Certificate Authority (CA)** u
 - Create self-signed CA certificate (`ca.cert.pem`)
 
 ### 🌐 Task 2: Issue Certificate to Web Server
-- Generate private key and CSR for `devportal.altschool.local`
+- Generate private key and CSR for decportal
 - Sign CSR using your CA to generate `devportal.cert.pem`
 
 ### ✅ Task 3: Verify Chain
@@ -61,6 +61,6 @@ To protect sensitive files, the following are excluded from GitHub:
 
 ## 📖 Author
 
-**Babatunde Goriola-Obafemi**  
-Cybersecurity Associate | AltSchool Africa  
+Babatunde Goriola-Obafemi
+Cybersecurity Analyst
 [GitHub Profile](https://github.com/Nobleteesage)
