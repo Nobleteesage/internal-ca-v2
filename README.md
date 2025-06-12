@@ -49,8 +49,7 @@ internal-ca/
 ├── report.txt
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
